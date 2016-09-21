@@ -1,0 +1,14 @@
+package Calculadora
+	
+	public class Restar{
+		public static void main (String[] args){
+			int a=0;
+			int b=0;
+			return a-b;
+		Calculadora calculadora=new Calculadora();
+		
+		system.out.println("Resta "+a+" y "+b+" es "+calculadora.Restar(a,b));
+
+		}
+
+	}
