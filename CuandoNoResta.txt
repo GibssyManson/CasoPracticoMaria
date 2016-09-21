@@ -1,0 +1,3 @@
+Aquí haremos una función modificada en la que indicaremos que cuando el número introducido no es int,
+lo indique la función y el usuario introduzca uno correcto. 
+Utilizando un for-else{}, un mensaje de alarma o usando parseInt.
